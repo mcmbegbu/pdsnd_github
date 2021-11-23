@@ -10,7 +10,7 @@ Using Git and GitHub with a simulated workflow to refactor Project 2.
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
-**Files used**
+**Files Used**
 
 https://github.com/mcmbegbu/pdsnd_github bikeshare.py new_york_city.csv chicago.csv washington.csv
 

@@ -1,12 +1,15 @@
-UdacityProject-3 
-Date created 23rd November, 2021.
+Date created 
+11/23/2021
 
 Project Title 
-This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+Refactoring Udacity Bike Share Project
 
 Description 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+This project consisted in using Git and GitHub with a simulated workflow to refactor Udacity Bike-Share Project
 
-Files used 
-https://github.com/mcmbegbu/UdacityProject-3
+Files used
+new_york_city.csv chicago.csv washington.csv Bikeshare.py
 
+Credits
+Thank you to Udacity for creating the challenging project!
